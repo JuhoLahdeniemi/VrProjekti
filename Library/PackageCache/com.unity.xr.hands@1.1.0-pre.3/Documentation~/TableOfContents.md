@@ -1,0 +1,10 @@
+* [Introduction](xref:xrhands-manual)
+* [Version History](xref:xrhands-version-history)
+  * [What's new](xref:xrhands-whats-new)
+* [Project Setup](xref:xrhands-project-setup)
+  * [Install XR Hands](xref:xrhands-install)
+  * [Scene Setup](xref:xrhands-scene-setup)
+* [Implement a provider](xref:xrhands-implement-a-provider)
+* OpenXR Features
+  * [Hand Tracking](./features/handtracking.md)
+  * [Meta Hand Tracking Aim](./features/metahandtrackingaim.md)
